@@ -1,0 +1,10 @@
+public interface UserState {
+    String ENTER_FIRSTNAME = "ENTER_FIRSTNAME";
+    String ENTER_LASTNAME = "ENTER_LASTNAME";
+    String ENTER_AGE = "ENTER_AGE";
+    String ENTER_COUNTRY = "ENTER_COUNTRY";
+    String ENTER_REGION = "ENTER_REGION";
+    String ENTER_CITY = "ENTER_CITY";
+    String ENTER_PHONE = "ENTER_PHONE";
+    String REGISTERED = "REGISTERED";
+}
